@@ -48,9 +48,9 @@ $ ./projects --list
 ```shell
 $ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' \
     --city 'Mountain View, CA'
-# Responsible for conceiving, planning, managing and developing innovative software 
-# projects to assist Volvo Group migrate to being a digital leader in the 
-# transportation space.
+# Responsible for conceiving, planning, managing and developing innovative  
+# software projects to assist Volvo Group migrate to being a 
+# digital leader in the transportation space.
 ```
 
 ### `2015 - 2018` [Bowers & Wilkins](http://bowerswilkins.com/)
@@ -145,7 +145,7 @@ $ ./employment --title 'Software Engineer' --company 'Core Mobility'       \
 $ ./employment --title 'Embedded and Wireless Software Engineer'           \
     --company 'Mobile Airways' --city 'San Francisco, CA'
 # (short-term contract)
-# Developed a FLEXScript based application for the TimePort P935 (:nauseated_face:) 
+# Developed a FLEXScript based application for the TimePort P935 
 # to interoperate with their Aqivo Mobile Desktop product
 ```
 
