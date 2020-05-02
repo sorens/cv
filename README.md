@@ -31,6 +31,10 @@ $ tree
 
 * [orens.com recipes](https://github.com/sorens/recipes)
 
+## Projects
+
+[Past, present and future projects](https://sorens.github.io/projects) summarized.
+
 ## [Public Key](KEY.txt)
 
 ```
