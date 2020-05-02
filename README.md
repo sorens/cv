@@ -29,14 +29,14 @@ $ tree
 
 ## Information
 
-* :cookie: [Recipes](https://github.com/sorens/recipes)
-* :desktop_computer: [Projects](https://sorens.github.io/projects)
-* :octocat: [Github](https://github.com/sorens)
-* :bird: [Twitter](https://twitter.com/skorens)
-* :camera: [Smugmug](https://skorens.smugmug.com)
-* :vomiting_face: [Facebook](https://www.facebook.com/skorens)
-* :game_die: [BoardGameGeek](https://boardgamegeek.com/user/skorens)
-* :neckbeard: [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
+* 🍪 [Recipes](https://github.com/sorens/recipes)
+* 🖥️ [Projects](https://sorens.github.io/projects)
+*    [Github](https://github.com/sorens)
+* 🐦 [Twitter](https://twitter.com/skorens)
+* 📷 [Smugmug](https://skorens.smugmug.com)
+* 🤮 [Facebook](https://www.facebook.com/skorens)
+* 🎲 [BoardGameGeek](https://boardgamegeek.com/user/skorens)
+*    [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
 
 ## [Public Key](KEY.txt)
 
