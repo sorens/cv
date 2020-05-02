@@ -1,4 +1,4 @@
-# CV for Stephen Orens
+# CV: Stephen Orens
 
 This github repository houses various formats of the CV for Stephen Orens.
 
@@ -11,7 +11,7 @@ $ tree
 └── README.md
 ```
 
-# Files
+## Files
 
 |    File      |             MD5                  |   Type   |
 |--------------|:--------------------------------:|:--------:|
@@ -19,3 +19,6 @@ $ tree
 |[CV](ORENS.pdf)|`61a14f92e4db83ec35b32b52e7960e70`|`PDF`|
 |[CV (<em>Truncated</em>)](ORENS_SM.md)|`0a068ee39f5bde440f92785aa278159d`|`Markdown`|
 
+## Recipes
+
+* [orens.com recipes](https://github.com/sorens/recipes)
