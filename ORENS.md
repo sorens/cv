@@ -16,7 +16,8 @@ $ ./github
 
 ```shell
 $ ./programming_languages --list
-# AppleScript, C, C++, C#, Golang, HTML, Java, Javascript, Objective-C, Perl, Python, Ruby
+# AppleScript, C, C++, C#, Golang, HTML, Java, Javascript, Objective-C, Perl, 
+# Python, Ruby
 ```
 
 ## About
@@ -45,13 +46,17 @@ $ ./projects --list
 
 ### `2019 - PRES` [Volvo Group](https://www.volvogroup.com/)
 ```shell
-$ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' --city 'Mountain View, CA'
-# Responsible for conceiving, planning, managing and developing innovative software projects to assist Volvo Group migrate to being a digital leader in the transportation space.
+$ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' \
+    --city 'Mountain View, CA'
+# Responsible for conceiving, planning, managing and developing innovative software 
+# projects to assist Volvo Group migrate to being a digital leader in the 
+# transportation space.
 ```
 
 ### `2015 - 2018` [Bowers & Wilkins](http://bowerswilkins.com/)
 ```shell
-$ ./employment --title 'Software Engineering Manager' --company 'Bowers & Wilkins' --city 'Redwood City, CA'
+$ ./employment --title 'Software Engineering Manager'                      \
+    --company 'Bowers & Wilkins' --city 'Redwood City, CA'
 # Bowers & Wilkins (formerly known as EVA Automation, Inc.)
 # Lead a team of engineers developing an A/V product for the 
 # living room. Worked through-out the linux stack, including 
@@ -61,7 +66,8 @@ $ ./employment --title 'Software Engineering Manager' --company 'Bowers & Wilkin
 
 ### `2013 - 2015` [Calaborate](https://apps.apple.com/us/app/klutch-scheduling-for-groups/id805266967)
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'Calaborate' --city 'Santa Monica, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'Calaborate'   \
+    --city 'Santa Monica, CA'
 # Designed and implemented Android mobile application for the 
 # Klutch ecosystem. Contributed to iOS client application and Ruby 
 # on Rails service.
@@ -69,7 +75,8 @@ $ ./employment --title 'Senior Software Engineer' --company 'Calaborate' --city 
 
 ### `2009 - 2013` [Handstand, Inc.](https://www.facebook.com/HandstandInc)
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'Handstand' --city 'Mountain View, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'Handstand'    \
+    --city 'Mountain View, CA'
 # Designed and implemented Ruby on Rails services and JSON API to 
 # support Nota for Android, Nota for iPad and other mobile and 
 # tablet applications (2009-2013). Co-developed Android customized 
@@ -80,7 +87,8 @@ $ ./employment --title 'Senior Software Engineer' --company 'Handstand' --city '
 
 ### `2007 - 2009` Dell, Inc.
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'Dell' --city 'Mountain View, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'Dell'         \
+    --city 'Mountain View, CA'
 # Dell purchased ZING in 2008, continued as a member of the Service
 # Team developing service solutions.
 
@@ -88,7 +96,8 @@ $ ./employment --title 'Senior Software Engineer' --company 'Dell' --city 'Mount
 
 ### `2006 - 2007` ZING
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'ZING' --city 'Mountain View, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'ZING'         \
+    --city 'Mountain View, CA'
 # Member of a small team that developed and maintained proprietary 
 # service in C# which communicated with wireless MP3 players that 
 # ZING developed. Focused on integration with third party services 
@@ -97,7 +106,8 @@ $ ./employment --title 'Senior Software Engineer' --company 'ZING' --city 'Mount
 
 ### `2003 - 2006` Jivjiv Corp.
 ```shell
-$ ./employment --title 'Co-Founder' --company 'Jivjiv' --city 'Mountain View, CA'
+$ ./employment --title 'Co-Founder' --company 'Jivjiv'                     \
+    --city 'Mountain View, CA'
 # Developed and maintained jivjiv.com along with co-founders. 
 # Responsible for development in Java, JSP and Ruby. jivjiv.com 
 # provided music artists with a web application that would allow 
@@ -107,7 +117,8 @@ $ ./employment --title 'Co-Founder' --company 'Jivjiv' --city 'Mountain View, CA
 
 ### `2001 - 2003` [Mobilefreon, Inc.](http://mobilefreon.com/)
 ```shell
-$ ./employment --title 'Co-Founder' --company 'Mobilefreon' --city 'Mountain View, CA'
+$ ./employment --title 'Co-Founder' --company 'Mobilefreon'                \
+    --city 'Mountain View, CA'
 # Mobilefreon's goal is create interesting and affordable 
 # entertainment software for handheld and cell phone platforms. 
 # Games shipped include: Spaceward Ho, Conquest, Buzzword Bingo, 
@@ -116,7 +127,8 @@ $ ./employment --title 'Co-Founder' --company 'Mobilefreon' --city 'Mountain Vie
 
 ### `2002 - 2003` Core Mobility
 ```shell
-$ ./employment --title 'Software Engineer' --company 'Core Mobility' --city 'Palo Alto, CA'
+$ ./employment --title 'Software Engineer' --company 'Core Mobility'       \
+    --city 'Palo Alto, CA'
 # (short-term contract)
 # Instant messaging client for Palm OS-based cell phones 
 # deployed on the Sprint 3G network. Responsible for porting the 
@@ -130,7 +142,8 @@ $ ./employment --title 'Software Engineer' --company 'Core Mobility' --city 'Pal
 
 ### `2001 - 2001` Mobile Airways
 ```shell
-$ ./employment --title 'Embedded and Wireless Software Engineer' --company 'Mobile Airways' --city 'San Francisco, CA'
+$ ./employment --title 'Embedded and Wireless Software Engineer'           \
+    --company 'Mobile Airways' --city 'San Francisco, CA'
 # (short-term contract)
 # Developed a FLEXScript based application for the TimePort P935 (:nauseated_face:) 
 # to interoperate with their Aqivo Mobile Desktop product
@@ -138,7 +151,8 @@ $ ./employment --title 'Embedded and Wireless Software Engineer' --company 'Mobi
 
 ### `2001 - 2001` WideRay, Inc.
 ```shell
-$ ./employment --title 'Software Engineer' --company 'WideRay' --city 'San Francisco, CA'
+$ ./employment --title 'Software Engineer' --company 'WideRay'             \
+    --city 'San Francisco, CA'
 # (short-term contract)
 # Contributed to development of WideRay's embedded product, The 
 # Jack. Integrated the Motorola FLEX Stack software and 
@@ -147,7 +161,8 @@ $ ./employment --title 'Software Engineer' --company 'WideRay' --city 'San Franc
 
 ### `1999 - 2000` Scout Electromedia (:tada:)
 ```shell
-$ ./employment --title 'Lead Embedded and Wireless Software Engineer' --company 'Scout Electromedia' --city 'San Francisco, CA'
+$ ./employment --title 'Lead Embedded and Wireless Software Engineer'      \
+    --company 'Scout Electromedia' --city 'San Francisco, CA'
 # (first startup!)
 # Responsible for development of software that would operate the 
 # Modo, a small, hand-held, wireless device. Collaborated with 
@@ -161,7 +176,8 @@ $ ./employment --title 'Lead Embedded and Wireless Software Engineer' --company 
 
 ### `1998 - 1999` AT&T Bell Labs
 ```shell
-$ ./employment --title 'Software Engineer' --company 'AT&T' --city 'Menlo Park, CA'
+$ ./employment --title 'Software Engineer' --company 'AT&T'                \
+    --city 'Menlo Park, CA'
 # Responsible for creating a network-based address book using LDAP 
 # and current syncing technology for an online, web-based email 
 # service, using C++ and Java. Responsible for creating a 
@@ -171,7 +187,8 @@ $ ./employment --title 'Software Engineer' --company 'AT&T' --city 'Menlo Park, 
 
 ### `1997 - 1998` Sun Microsystems, Inc (JavaSoft Division)
 ```shell
-$ ./employment --title 'Software Engineer' --company 'JavaSoft' --city 'Cupertino, CA'
+$ ./employment --title 'Software Engineer' --company 'JavaSoft'            \
+    --city 'Cupertino, CA'
 # Responsible for product delivery via the public and e-commerce 
 # web sites. Designed, implemented and maintained Perl-based 
 # server-side applications to enable product download, including 
@@ -183,7 +200,8 @@ $ ./employment --title 'Software Engineer' --company 'JavaSoft' --city 'Cupertin
 
 ### `1994 - 1997` Apple Computer, Inc.
 ```shell
-$ ./employment --title 'Software & QA Engineer' --company 'Apple' --city 'Cupertino, CA'
+$ ./employment --title 'Software & QA Engineer' --company 'Apple'          \
+    --city 'Cupertino, CA'
 # Team member for the Cyberdog project in the Internet Products 
 # Division. Designed, implemented and maintained the Cyberdog 
 # external Internet presence. Contributed to the testing and 
@@ -196,7 +214,8 @@ $ ./employment --title 'Software & QA Engineer' --company 'Apple' --city 'Cupert
 
 ### `1993 - 1994` Inner Circles Technologies, Inc.
 ```shell
-$ ./employment --title 'Software Engineer/Game Master' --company 'Inner Circles' --city 'online'
+$ ./employment --title 'Software Engineer/Game Master'                     \
+    --company 'Inner Circles' --city 'online'
 # Assisted in the development and support for a real-time, 
 # multi-user role-playing game, "Legends of Future Past". Focused 
 # on customer interaction and software development in-game.

@@ -45,13 +45,15 @@ $ ./projects --list
 
 ### `2019 - PRES` [Volvo Group](https://www.volvogroup.com/)
 ```shell
-$ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' --city 'Mountain View, CA'
+$ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' \
+    --city 'Mountain View, CA'
 # Responsible for conceiving, planning, managing and developing innovative software projects to assist Volvo Group migrate to being a digital leader in the transportation space.
 ```
 
 ### `2015 - 2018` [Bowers & Wilkins](http://bowerswilkins.com/)
 ```shell
-$ ./employment --title 'Software Engineering Manager' --company 'Bowers & Wilkins' --city 'Redwood City, CA'
+$ ./employment --title 'Software Engineering Manager'                      \
+    --company 'Bowers & Wilkins' --city 'Redwood City, CA'
 # Bowers & Wilkins (formerly known as EVA Automation, Inc.)
 # Lead a team of engineers developing an A/V product for the 
 # living room. Worked through-out the linux stack, including 
@@ -61,7 +63,8 @@ $ ./employment --title 'Software Engineering Manager' --company 'Bowers & Wilkin
 
 ### `2013 - 2015` [Calaborate](https://apps.apple.com/us/app/klutch-scheduling-for-groups/id805266967)
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'Calaborate' --city 'Santa Monica, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'Calaborate'   \
+    --city 'Santa Monica, CA'
 # Designed and implemented Android mobile application for the 
 # Klutch ecosystem. Contributed to iOS client application and Ruby 
 # on Rails service.
@@ -69,7 +72,8 @@ $ ./employment --title 'Senior Software Engineer' --company 'Calaborate' --city 
 
 ### `2009 - 2013` [Handstand, Inc.](https://www.facebook.com/HandstandInc)
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company 'Handstand' --city 'Mountain View, CA'
+$ ./employment --title 'Senior Software Engineer' --company 'Handstand'    \
+    --city 'Mountain View, CA'
 # Designed and implemented Ruby on Rails services and JSON API to 
 # support Nota for Android, Nota for iPad and other mobile and 
 # tablet applications (2009-2013). Co-developed Android customized 
