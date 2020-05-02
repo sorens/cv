@@ -43,6 +43,12 @@ $ ./projects --list
 
 ## Employment
 
+### `2019 - PRES` [Volvo Group](https://www.volvogroup.com/)
+```shell
+$ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' --city 'Mountain View, CA'
+# Responsible for conceiving, planning, managing and developing innovative software projects to assist Volvo Group migrate to being a digital leader in the transportation space.
+```
+
 ### `2015 - 2018` [Bowers & Wilkins](http://bowerswilkins.com/)
 ```shell
 $ ./employment --title 'Software Engineering Manager' --company 'Bowers & Wilkins' --city 'Redwood City, CA'
