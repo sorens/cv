@@ -1,20 +1,22 @@
 # Stephen Orens
 
-This github repository houses various formats of the CV for Stephen Orens.
+Important information about me, Stephen Orens.
+
+## Files
 
 ```shell
 $ tree
 .
+├── KEY.txt
 ├── ORENS.md
 ├── ORENS.pdf
 ├── ORENS_SM.md
 └── README.md
 ```
 
-## Files
-
-|    File      |             MD5                  |   Type   |
+|    Name      |             MD5                  |   Type   |
 |--------------|:--------------------------------:|:--------:|
+|[PGP Key](KEY.txt)|`edbab1f077892281984ab0b6a2eb65a5`|`ASCII`|
 |[CV](ORENS.md)|`4ab799389e91bb367429a37f4c027404`|`Markdown`|
 |[CV](ORENS.pdf)|`61a14f92e4db83ec35b32b52e7960e70`|`PDF`|
 |[CV (<em>Truncated</em>)](ORENS_SM.md)|`0a068ee39f5bde440f92785aa278159d`|`Markdown`|
