@@ -16,7 +16,8 @@ $ ./github
 
 ```shell
 $ ./programming_languages --list
-# AppleScript, C, C++, C#, Golang, HTML, Java, Javascript, Objective-C, Perl, Python, Ruby
+# AppleScript, C, C++, C#, Golang, HTML, Java, Javascript, Objective-C, Perl, 
+# Python, Ruby
 ```
 
 ## About
