@@ -31,12 +31,12 @@ $ tree
 
 * 🍪 [Recipes](https://github.com/sorens/recipes)
 * 🖥️ [Projects](https://sorens.github.io/projects)
-*    [Github](https://github.com/sorens)
+* 💻 [Github](https://github.com/sorens)
 * 🐦 [Twitter](https://twitter.com/skorens)
 * 📷 [Smugmug](https://skorens.smugmug.com)
 * 🤮 [Facebook](https://www.facebook.com/skorens)
 * 🎲 [BoardGameGeek](https://boardgamegeek.com/user/skorens)
-*    [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
+* 👾 [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
 
 ## [Public Key](KEY.txt)
 
