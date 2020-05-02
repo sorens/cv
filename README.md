@@ -1,4 +1,4 @@
-# CV: Stephen Orens
+# Stephen Orens
 
 This github repository houses various formats of the CV for Stephen Orens.
 
