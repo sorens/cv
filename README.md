@@ -1,6 +1,6 @@
 # Stephen Orens
 
-Important information about me, Stephen Orens.
+Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Dad. Baseball/Soccer. Knitter. Baker. Searching for that `Dare To Be Great` Situation. Currently working at [@VolvoGroup](https://github.com/VolvoGroup) and [@hub335](https://github.com/hub335).
 
 ## Files
 
@@ -27,13 +27,16 @@ $ tree
 
 * Spaceward Ho! is a strategic game of awesome scope. You control the entire military and economy of a spacefaring race. Your goal: explore and colonize the galaxy. Based on the [original Mac/PC/Palm](https://en.wikipedia.org/wiki/Spaceward_Ho!) game and updated for iOS. [Download Spaceward Ho!](http://bit.ly/spaceward_ho_a) now!
 
-## Recipes
+## Information
 
-* [orens.com recipes](https://github.com/sorens/recipes)
-
-## Projects
-
-[Past, present and future projects](https://sorens.github.io/projects) summarized.
+* :cookie: [Recipes](https://github.com/sorens/recipes)
+* :desktop_computer: [Projects](https://sorens.github.io/projects)
+* :octocat: [Github](https://github.com/sorens)
+* :bird: [Twitter](https://twitter.com/skorens)
+* :camera: [Smugmug](https://skorens.smugmug.com)
+* :vomiting_face: [Facebook](https://www.facebook.com/skorens)
+* :board_game: [BoardGameGeek](https://boardgamegeek.com/user/skorens)
+* :neckbeard: [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
 
 ## [Public Key](KEY.txt)
 
