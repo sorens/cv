@@ -35,7 +35,7 @@ $ tree
 * :bird: [Twitter](https://twitter.com/skorens)
 * :camera: [Smugmug](https://skorens.smugmug.com)
 * :vomiting_face: [Facebook](https://www.facebook.com/skorens)
-* :board_game: [BoardGameGeek](https://boardgamegeek.com/user/skorens)
+* :game_die: [BoardGameGeek](https://boardgamegeek.com/user/skorens)
 * :neckbeard: [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
 
 ## [Public Key](KEY.txt)
