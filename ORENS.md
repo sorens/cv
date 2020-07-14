@@ -170,8 +170,8 @@ $ ./employment --title 'Lead Embedded and Wireless Software Engineer'      \
 # for device software. Defined and documented features for the 
 # device software 1.0. Developed schedule of work and supervised 
 # the device software team to develop the 1.0 software for the 
-# device. Contributed signficant portions of the software itself, 
-# including interoprability with the Motorola FLEX Stack.
+# device. Contributed significant portions of the software itself, 
+# including interoperability with the Motorola FLEX Stack.
 ```
 
 ### `1998 - 1999` AT&T Bell Labs
