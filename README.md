@@ -30,7 +30,7 @@ $ tree
 ## Information
 
 * 🍪 [Recipes](https://github.com/sorens/recipes)
-* 🖥️ [Projects](https://sorens.github.io/projects)
+* 🖥️ [Projects](https://sorens.github.io/)
 * 💻 [Github](https://github.com/sorens)
 * 🐦 [Twitter](https://twitter.com/skorens)
 * 📷 [Smugmug](https://skorens.smugmug.com)
