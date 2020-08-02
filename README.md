@@ -1,25 +1,13 @@
 # Stephen Orens
 
-Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Dad. Baseball/Soccer. Knitter. Baker. Searching for that `Dare To Be Great` Situation. Currently working at [@VolvoGroup](https://github.com/VolvoGroup) and [@hub335](https://github.com/hub335).
-
-## Files
-
-```shell
-$ tree
-.
-├── KEY.txt
-├── ORENS.md
-├── ORENS.pdf
-├── ORENS_SM.md
-└── README.md
-```
+Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Dad. Baseball/Soccer. Knitter. Baker. Searching for that `Dare To Be Great` Situation. Currently working for [@VolvoGroup](https://github.com/VolvoGroup) at [@hub335](https://github.com/hub335).
 
 |    Name      |             MD5                  |   Type   |
 |--------------|:--------------------------------:|:--------:|
 |[PGP Key](KEY.txt)|`edbab1f077892281984ab0b6a2eb65a5`|`ASCII`|
-|[CV](ORENS.md)|`4ab799389e91bb367429a37f4c027404`|`Markdown`|
+|[CV](ORENS.md)|`d2e25415a7216468e44cc81faca0b5c8`|`Markdown`|
 |[CV](ORENS.pdf)|`61a14f92e4db83ec35b32b52e7960e70`|`PDF`|
-|[CV (<em>Truncated</em>)](ORENS_SM.md)|`0a068ee39f5bde440f92785aa278159d`|`Markdown`|
+|[CV (<em>Truncated</em>)](ORENS_SM.md)|`69d14374c3ce86a878d4ca6c8ff25788`|`Markdown`|
 
 ## Spaceward Ho!
 
