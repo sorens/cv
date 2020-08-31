@@ -23,7 +23,7 @@ Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Da
 * 🐦 [Twitter](https://twitter.com/skorens)
 * 📷 [Smugmug](https://skorens.smugmug.com)
 * 🤮 [Facebook](https://www.facebook.com/skorens)
-* 🎲 [BoardGameGeek](https://boardgamegeek.com/user/skorens)
+* 🎲 [BoardGameGeek](https://boardgamegeek.com/collection/user/skorens?own=1&subtype=boardgame&ff=1)
 * 👾 [Stack Overflow](https://stackoverflow.com/users/349423/sorens)
 
 ## [Public Key](KEY.txt)
