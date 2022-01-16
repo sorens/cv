@@ -5,9 +5,9 @@ Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Da
 |    Name      |             MD5                  |   Type   |
 |--------------|:--------------------------------:|:--------:|
 |[PGP Key](KEY.txt)|`edbab1f077892281984ab0b6a2eb65a5`|`ASCII`|
-|[CV](ORENS.md)|`d2e25415a7216468e44cc81faca0b5c8`|`Markdown`|
-|[CV](ORENS.pdf)|`61a14f92e4db83ec35b32b52e7960e70`|`PDF`|
-|[CV (<em>Truncated</em>)](ORENS_SM.md)|`69d14374c3ce86a878d4ca6c8ff25788`|`Markdown`|
+|[CV](ORENS.md)|`f9f573c77f33bd8f826f0415ff500fa5`|`Markdown`|
+|[CV](ORENS.pdf)|`81012d4746a001c59a60362c063589f8`|`PDF`|
+|[CV (<em>Truncated</em>)](ORENS_SM.md)|`58f0b26340a5e3b8b0fcb52ad847e8be`|`Markdown`|
 
 ## Spaceward Ho!
 
