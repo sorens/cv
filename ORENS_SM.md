@@ -44,7 +44,14 @@ $ ./projects --list
 
 ## Recent Employment
 
-### `2019 - PRES` [Volvo Group](https://www.volvogroup.com/)
+### `2020 - PRES` Sekret Interesting Company ✨
+```shell
+$ ./employment --title 'Senior Software Engineer' --company ""             \
+    --city 'Everywhere'
+# company name missing, please provide
+```
+
+### `2019 - 2020` [Volvo Group](https://www.volvogroup.com/)
 ```shell
 $ ./employment --title 'Senior Innovation Manager' --company 'Volvo Group' \
     --city 'Mountain View, CA'

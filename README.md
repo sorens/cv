@@ -1,6 +1,6 @@
 # Stephen Orens
 
-Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Dad. Baseball/Soccer. Knitter. Baker. Searching for that `Dare To Be Great` Situation. Currently working for [@VolvoGroup](https://github.com/VolvoGroup) at [@hub335](https://github.com/hub335).
+Senior Software Engineer/Manager; Go, Ruby, iOS, Android, C, C++, Obj-C, etc. Dad. Baseball/Soccer. Knitter. Baker. Searching for that `Dare To Be Great` Situation. Currently working for: Sekret Interesting Company ✨.
 
 |    Name      |             MD5                  |   Type   |
 |--------------|:--------------------------------:|:--------:|
