@@ -39,7 +39,7 @@ $ ./projects --list
 # Spaceward Ho!, Naval Game To Be Named Later, 
 # Ratings Exporter for Netflix, Kid Game To Be Named Later
 # 
-# https://sorens.github.io/projects/index.html
+# https://sorens.github.io
 ```
 
 ## Recent Employment
@@ -109,7 +109,7 @@ $ ./employment --past --list
 # 1994-1997 Apple
 # 1993-1994 Inner Circles Technologies
 #
-# full details: https://github.com/sorens/cv/ORENS.md
+# full details: https://orens.com/ORENS
 ```
 
 ## Education
