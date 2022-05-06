@@ -5,8 +5,8 @@ $ ./email --name steve --domain orens --tld com
 # steve { at } orens { dot } com
 
 $ ./resumes
-# https://github.com/sorens/cv/ORENS.md
-# https://github.com/sorens/cv/ORENS.pdf
+# https://orens.com/ORENS.html
+# https://orens.com/ORENS.pdf
 
 $ ./github
 # https://github.com/sorens
@@ -39,7 +39,7 @@ $ ./projects --list
 # Spaceward Ho!, Naval Game To Be Named Later, 
 # Ratings Exporter for Netflix, Kid Game To Be Named Later
 # 
-# https://sorens.github.io/projects/index.html
+# https://sorens.github.io
 ```
 
 ## Employment
