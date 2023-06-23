@@ -44,11 +44,11 @@ $ ./projects --list
 
 ## Recent Employment
 
-### `2020 - PRES` Sekret Interesting Company ✨
+### `2020 - PRES` [Config, Inc.](https://config.com/) ✨
 ```shell
-$ ./employment --title 'Senior Software Engineer' --company ""             \
-    --city 'Everywhere'
-# company name missing, please provide
+$ ./employment --title 'Senior Software Engineer' --company "Config"       \
+    --city 'Bay Area; Las Vegas; NYC'
+# Solving _interesting_ problems when integrating with CAD
 ```
 
 ### `2019 - 2020` [Volvo Group](https://www.volvogroup.com/)
