@@ -37,6 +37,8 @@ I am...
 * 🖥️ [Projects](https://sorens.github.io/)
 * 💻 [Github](https://github.com/sorens)
 * 🐦 [Twitter](https://twitter.com/skorens)
+* 🐘 <a rel="me" href="https://mastodon.social/@skorens">Mastodon</a>
+* 🐘 <a rel="me" href="https://hachyderm.io/@skorens">Hachyderm</a>
 * 📷 [Smugmug](https://skorens.smugmug.com)
 * 🤮 [Facebook](https://www.facebook.com/skorens)
 * 🎲 [BoardGameGeek](https://boardgamegeek.com/collection/user/skorens?own=1&subtype=boardgame&ff=1)
