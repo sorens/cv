@@ -15,12 +15,13 @@ Languages...
 I am...
 * a dad
 * a baseball player
-* a soccer coach
+* a youth soccer coach
 * a knitter
 * a baker
+* updating [Spaceward Ho!](http://bit.ly/spaceward_ho_a)
 * writing a throw-back 80s wargame based on [North Atlantic '86](https://northatlantic86.com)
 * searching for that `Dare To Be Great` situation
-* currently working for a _Sekret Interesting Company_ ✨🙊
+* currently working to give hardware team superpowers at [Config](https://config.com)
 
 ## CV
 
